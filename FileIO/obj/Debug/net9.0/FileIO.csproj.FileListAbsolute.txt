@@ -1,0 +1,14 @@
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/bin/Debug/net9.0/FileIO
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/bin/Debug/net9.0/FileIO.deps.json
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/bin/Debug/net9.0/FileIO.runtimeconfig.json
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/bin/Debug/net9.0/FileIO.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/bin/Debug/net9.0/FileIO.pdb
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/FileIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/FileIO.AssemblyInfoInputs.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/FileIO.AssemblyInfo.cs
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/FileIO.csproj.CoreCompileInputs.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/FileIO.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/refint/FileIO.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/FileIO.pdb
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/FileIO.genruntimeconfig.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/FileIO/obj/Debug/net9.0/ref/FileIO.dll
