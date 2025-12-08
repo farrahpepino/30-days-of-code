@@ -1,0 +1,15 @@
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.AssemblyInfoInputs.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.AssemblyInfo.cs
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.csproj.CoreCompileInputs.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.sourcelink.json
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi.deps.json
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi.runtimeconfig.json
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/bin/Debug/net9.0/TowerOfHanoi.pdb
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/refint/TowerOfHanoi.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.pdb
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/TowerOfHanoi.genruntimeconfig.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/TowerOfHanoi/obj/Debug/net9.0/ref/TowerOfHanoi.dll
