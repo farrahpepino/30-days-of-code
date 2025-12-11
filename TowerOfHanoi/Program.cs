@@ -6,13 +6,10 @@
     }
 
     public static void towers(int disk, int start, int mid, int end){
-        Console.WriteLine("yip");
         if (disk==0) return;
         towers(disk-1, start, end, mid);
-        Console.WriteLine("ee");
         Console.WriteLine($"Move Disk {disk} from Peg {start} to Peg {end}");
         towers(disk-1, mid, start, end);
-
         moves++;
     }
 }
