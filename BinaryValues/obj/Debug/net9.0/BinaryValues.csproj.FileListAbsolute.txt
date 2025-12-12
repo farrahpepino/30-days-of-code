@@ -1,0 +1,15 @@
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/BinaryValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/BinaryValues.AssemblyInfoInputs.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/BinaryValues.AssemblyInfo.cs
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/BinaryValues.csproj.CoreCompileInputs.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/BinaryValues.sourcelink.json
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/bin/Debug/net9.0/BinaryValues
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/bin/Debug/net9.0/BinaryValues.deps.json
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/bin/Debug/net9.0/BinaryValues.runtimeconfig.json
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/bin/Debug/net9.0/BinaryValues.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/bin/Debug/net9.0/BinaryValues.pdb
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/BinaryValues.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/refint/BinaryValues.dll
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/BinaryValues.pdb
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/BinaryValues.genruntimeconfig.cache
+/Users/farrahpepino/Documents/GitHub/30-days-of-code/BinaryValues/obj/Debug/net9.0/ref/BinaryValues.dll
